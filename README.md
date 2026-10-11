@@ -1,6 +1,6 @@
 ## Hi, I'm Zoey 👋
 
-I'm a research assistant at Yale University, working with Sai Zhang. I'm interested in machine learning for clinical and biological data.
+I'm a postgraduate associate at Yale University, working with Sai Zhang. I work on self-supervised and foundation models for biomedical data.
 
 I received my M.S. in Biostatistics (Data Science) from Yale and my B.S. in Mathematics and Applied Mathematics from Beijing Forestry University.
 
@@ -8,8 +8,9 @@ I received my M.S. in Biostatistics (Data Science) from Yale and my B.S. in Math
 
 ### Research
 
-- **cNODE** — early sepsis prediction with a continuous-time Neural ODE Transformer. Accepted at AMIA 2026.
-- **Protein prediction** — applying models across UK Biobank and All of Us, with ongoing work on foundation models for biological data.
+- **Genomic foundation models** — multi-disease prediction and generalization across ancestry groups.
+- **Proteome imputation** — protein prediction across UK Biobank and All of Us, and protein foundation models.
+- **cNODE** — early sepsis prediction with a continuous-time Neural ODE Transformer. Accepted for an oral presentation at AMIA 2026.
 - **Robustness** — earlier work with Leying Guan on spurious correlations.
 
 ### Languages and tools
