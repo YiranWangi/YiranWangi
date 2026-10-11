@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="36" viewBox="0 0 109 36" role="img" aria-label="PyTorch"><title>PyTorch</title><rect x=".5" y=".5" width="108" height="35" rx="17.5" fill="#fbf3f1" stroke="#f0d1cd"/><circle cx="19" cy="18" r="11" fill="#C2412D"/><text x="19" y="21.6" text-anchor="middle" fill="white" font-family="Arial,Helvetica,sans-serif" font-size="10">PT</text><text x="38" y="23" fill="#253449" font-family="Arial,Helvetica,sans-serif" font-size="15">PyTorch</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="79" height="20" viewBox="0 0 79 20" role="img" aria-label="PyTorch">
+  <title>PyTorch</title>
+  <defs><clipPath id="r"><rect width="79" height="20" rx="3"/></clipPath></defs>
+  <g clip-path="url(#r)">
+    <rect width="79" height="20" fill="#EE4C2C"/>
+    <rect width="25" height="20" fill="#454545"/>
+  </g>
+  <g transform="translate(6 3.5) scale(0.5416666667)" fill="#fff"><path d="M12.005 0L4.952 7.053a9.865 9.865 0 000 14.022 9.866 9.866 0 0014.022 0c3.984-3.9 3.986-10.205.085-14.023l-1.744 1.743c2.904 2.905 2.904 7.634 0 10.538s-7.634 2.904-10.538 0-2.904-7.634 0-10.538l4.647-4.646.582-.665zm3.568 3.899a1.327 1.327 0 00-1.327 1.327 1.327 1.327 0 001.327 1.328A1.327 1.327 0 0016.9 5.226 1.327 1.327 0 0015.573 3.9z"/></g>
+  <text x="52" y="14" text-anchor="middle" fill="#fff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="11">PyTorch</text>
+</svg>

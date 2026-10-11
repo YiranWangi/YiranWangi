@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="118" height="36" viewBox="0 0 118 36" role="img" aria-label="Anthropic"><title>Anthropic</title><rect x=".5" y=".5" width="117" height="35" rx="17.5" fill="#f5f4f3" stroke="#dbd5d3"/><circle cx="19" cy="18" r="11" fill="#685248"/><text x="19" y="21.6" text-anchor="middle" fill="white" font-family="Arial,Helvetica,sans-serif" font-size="10">An</text><text x="38" y="23" fill="#253449" font-family="Arial,Helvetica,sans-serif" font-size="15">Anthropic</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="86" height="20" viewBox="0 0 86 20" role="img" aria-label="Anthropic">
+  <title>Anthropic</title>
+  <defs><clipPath id="r"><rect width="86" height="20" rx="3"/></clipPath></defs>
+  <g clip-path="url(#r)">
+    <rect width="86" height="20" fill="#191919"/>
+    <rect width="25" height="20" fill="#454545"/>
+  </g>
+  <g transform="translate(6 3.5) scale(0.5416666667)" fill="#fff"><path d="M17.3041 3.541h-3.6718l6.696 16.918H24Zm-10.6082 0L0 20.459h3.7442l1.3693-3.5527h7.0052l1.3693 3.5528h3.7442L10.5363 3.5409Zm-.3712 10.2232 2.2914-5.9456 2.2914 5.9456Z"/></g>
+  <text x="55.5" y="14" text-anchor="middle" fill="#fff" font-family="Verdana,DejaVu Sans,sans-serif" font-size="11">Anthropic</text>
+</svg>

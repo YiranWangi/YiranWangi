@@ -1,0 +1,3 @@
+Brand icon paths from Simple Icons: https://github.com/simple-icons/simple-icons
+CC0 1.0 Universal; see ../../licenses/SimpleIcons-CC0.md.
+The CUDA badge uses the NVIDIA icon. Slurm is a text badge.
