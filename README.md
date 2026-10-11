@@ -1,16 +1,28 @@
-## Hi there 👋
+![Yiran (Zoey) Wang — Yale Research Assistant](assets/hero.svg)
 
-<!--
-**YiranWangi/YiranWangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Research Assistant at Yale University**
 
-Here are some ideas to get you started:
+I work on machine learning for healthcare and population-scale biomedical data. My interests include continuous-time clinical modeling, biological representations, and robustness to spurious correlations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Email](mailto:yiran.wang@yale.edu)
+
+## Selected research
+
+- **cNODE:** A continuous-time Neural ODE Transformer for early sepsis prediction. Accepted for presentation at AMIA 2026.
+- **Population-scale biology:** Protein prediction across biobanks and foundation-model research with proteomic and genetic data.
+- **Robust machine learning:** Understanding models’ reliance on spurious features.
+
+## Languages and tools
+
+### Modeling & training
+
+![Python](assets/toolkit/python.svg) ![PyTorch](assets/toolkit/pytorch.svg) ![Lightning](assets/toolkit/lightning.svg) ![Hugging Face](assets/toolkit/hugging-face.svg) ![NumPy](assets/toolkit/numpy.svg) ![pandas](assets/toolkit/pandas.svg) ![scikit-learn](assets/toolkit/scikit-learn.svg)
+
+### LLM & inference
+
+![LangChain](assets/toolkit/langchain.svg) ![vLLM](assets/toolkit/vllm.svg) ![Anthropic](assets/toolkit/anthropic.svg) ![Ray](assets/toolkit/ray.svg) ![Weights & Biases](assets/toolkit/weights-and-biases.svg)
+
+### Infra & tooling
+
+![CUDA](assets/toolkit/cuda.svg) ![Slurm](assets/toolkit/slurm.svg) ![Docker](assets/toolkit/docker.svg) ![Kubernetes](assets/toolkit/kubernetes.svg) ![Jupyter](assets/toolkit/jupyter.svg) ![LaTeX](assets/toolkit/latex.svg)
+
