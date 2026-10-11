@@ -1,6 +1,6 @@
 ## Hi, I'm Zoey 👋
 
-I'm a research assistant at Yale University, working with Jihoon Kim. I'm interested in machine learning for clinical and biological data.
+I'm a research assistant at Yale University, working with Sai Zhang. I'm interested in machine learning for clinical and biological data.
 
 I received my M.S. in Biostatistics (Data Science) from Yale and my B.S. in Mathematics and Applied Mathematics from Beijing Forestry University.
 
