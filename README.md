@@ -10,7 +10,7 @@ I received my M.S. in Biostatistics (Data Science) from Yale and my B.S. in Math
 
 - **Genomic foundation models** — multi-disease prediction and generalization across ancestry groups.
 - **Proteome imputation** — protein prediction across UK Biobank and All of Us, and protein foundation models.
-- **cNODE: A Continuous-Time Neural ODE Transformer for Early Sepsis Prediction** — Yiran Wang and Jihoon Kim. AMIA 2026 oral presentation. [AMIA Program & Abstract](https://amia.secure-platform.com/symposium/gallery/rounds/82037/details/32518)
+- **cNODE: A Continuous-Time Neural ODE Transformer for Early Sepsis Prediction** — Yiran Wang and Jihoon Kim. AMIA 2026 oral presentation. [Paper PDF](files/cNODE_AMIA2026_Wang_Kim.pdf) · [AMIA Program & Abstract](https://amia.secure-platform.com/symposium/gallery/rounds/82037/details/32518)
 - **Robustness** — earlier work with Leying Guan on spurious correlations.
 
 ### Languages and tools
